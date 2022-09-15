@@ -2,7 +2,7 @@
 Challenge 3 Assignment
 Columbia-2U Fullstack Coding Bootcamp
 
-![App Main Image](./Develop/Images/Screenshot%20of%20App.png)
+![App Main Image](./Images/Screenshot%20of%20App.png)
 
 #Description
 The purpose of this project was to challenge us to use javascript by creating a random password generator. 
